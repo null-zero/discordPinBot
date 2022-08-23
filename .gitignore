@@ -1,0 +1,7 @@
+**/backups
+**/daleyreactbot
+config.json
+config2_test.json
+**/node_modules
+**/daemon
+Service.js
